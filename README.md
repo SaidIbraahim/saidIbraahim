@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)]
 <h1 align="center">Hi 👋, I'm Said Ibrahim</h1>
 <h3 align="center">A passionate full-stack developer from Somalia</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saidibraahim&label=Profile%20views&color=0e75b6&style=flat" alt="saidibraahim" /> </p>
 
