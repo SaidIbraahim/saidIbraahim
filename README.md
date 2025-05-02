@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Said Ibrahim</h1>
-<h3 align="center">A passionate full-stack developer from Somalia</h3>
+<h3 align="center">A passionate Software Developer & UX Designer from Somalia</h3>
 
 <!-- Profile views counter and social badges -->
 <p align="center">
