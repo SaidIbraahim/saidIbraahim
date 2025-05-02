@@ -1,6 +1,8 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" width="100%" alt="banner"/>
+  <a href="https://portfolio.saidibrahim.tech/">
+    <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" width="100%" alt="banner"/>
+  </a>
 </div>
 
 <h1 align="center">Hi 👋, I'm Said Ibrahim</h1>
@@ -8,10 +10,11 @@
 
 <!-- Profile views counter and social badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saidibraahim&label=Profile%20views&color=0e75b6&style=flat" alt="saidibraahim" />
-  <a href="https://www.linkedin.com/in/sa-ibrahim/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/saeedibrahim.tech"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:saidibrahim61@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=saidibraahim&label=Profile%20views&color=0086b3&style=for-the-badge" alt="profile views" />
+  <a href="https://www.linkedin.com/in/sa-ibrahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0086b3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/saeedibrahim.tech" target="_blank"><img src="https://img.shields.io/badge/Instagram-0086b3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="mailto:saidibrahim61@outlook.com"><img src="https://img.shields.io/badge/Email-0086b3?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
+  <a href="https://portfolio.saidibrahim.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0086b3?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -22,7 +25,7 @@
 </p>
 
 <!-- About me section with better organization -->
-<h2>💫 About Me</h2>
+<h2 style="color: #0086b3;">💫 About Me</h2>
 
 - 🔭 I'm currently working on **technology solutions for Somali society, aiming to solve real-world problems**
 
@@ -42,42 +45,42 @@
 </p>
 
 <!-- Modern Tech Stack with shields.io badges -->
-<h2 align="center">🛠️ Tech Stack Showcase</h2>
+<h2 align="center" style="color: #0086b3;">🛠️ Tech Stack Showcase</h2>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/HTML5-252525?style=for-the-badge&logo=html5&logoColor=0086b3" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-252525?style=for-the-badge&logo=css3&logoColor=0086b3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-252525?style=for-the-badge&logo=javascript&logoColor=0086b3" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-252525?style=for-the-badge&logo=typescript&logoColor=0086b3" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-252525?style=for-the-badge&logo=react&logoColor=0086b3" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-252525?style=for-the-badge&logo=nodedotjs&logoColor=0086b3" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-252525?style=for-the-badge&logo=express&logoColor=0086b3" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-252525?style=for-the-badge&logo=mongodb&logoColor=0086b3" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-252525?style=for-the-badge&logo=postgresql&logoColor=0086b3" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=python&logoColor=0086b3" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-252525?style=for-the-badge&logo=tensorflow&logoColor=0086b3" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/AWS-252525?style=for-the-badge&logo=amazonaws&logoColor=0086b3" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-252525?style=for-the-badge&logo=docker&logoColor=0086b3" alt="Docker" />
+  <img src="https://img.shields.io/badge/Bootstrap-252525?style=for-the-badge&logo=bootstrap&logoColor=0086b3" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-252525?style=for-the-badge&logo=tailwind-css&logoColor=0086b3" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/GIT-252525?style=for-the-badge&logo=git&logoColor=0086b3" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-252525?style=for-the-badge&logo=linux&logoColor=0086b3" alt="Linux" />
 </div>
 
 <!-- Tech Stack - Expandable Categories -->
-<h2 align="center">🧰 Specialized Skills</h2>
+<h2 align="center" style="color: #0086b3;">🧰 Specialized Skills</h2>
 
 <details open>
   <summary><b>Frontend</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+    <img src="https://img.shields.io/badge/HTML5-252525?style=for-the-badge&logo=html5&logoColor=0086b3" alt="HTML5" />
+    <img src="https://img.shields.io/badge/CSS3-252525?style=for-the-badge&logo=css3&logoColor=0086b3" alt="CSS3" />
+    <img src="https://img.shields.io/badge/JavaScript-252525?style=for-the-badge&logo=javascript&logoColor=0086b3" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-252525?style=for-the-badge&logo=typescript&logoColor=0086b3" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-252525?style=for-the-badge&logo=react&logoColor=0086b3" alt="React" />
+    <img src="https://img.shields.io/badge/Bootstrap-252525?style=for-the-badge&logo=bootstrap&logoColor=0086b3" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-252525?style=for-the-badge&logo=tailwind-css&logoColor=0086b3" alt="Tailwind" />
   </p>
 </details>
 
@@ -85,10 +88,10 @@
   <summary><b>Backend</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+    <img src="https://img.shields.io/badge/Node.js-252525?style=for-the-badge&logo=nodedotjs&logoColor=0086b3" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Express.js-252525?style=for-the-badge&logo=express&logoColor=0086b3" alt="Express.js" />
+    <img src="https://img.shields.io/badge/Python-252525?style=for-the-badge&logo=python&logoColor=0086b3" alt="Python" />
+    <img src="https://img.shields.io/badge/.NET-252525?style=for-the-badge&logo=dotnet&logoColor=0086b3" alt=".NET" />
   </p>
 </details>
 
@@ -96,12 +99,12 @@
   <summary><b>Database & Cloud</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+    <img src="https://img.shields.io/badge/MongoDB-252525?style=for-the-badge&logo=mongodb&logoColor=0086b3" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/PostgreSQL-252525?style=for-the-badge&logo=postgresql&logoColor=0086b3" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/MySQL-252525?style=for-the-badge&logo=mysql&logoColor=0086b3" alt="MySQL" />
+    <img src="https://img.shields.io/badge/AWS-252525?style=for-the-badge&logo=amazonaws&logoColor=0086b3" alt="AWS" />
+    <img src="https://img.shields.io/badge/Docker-252525?style=for-the-badge&logo=docker&logoColor=0086b3" alt="Docker" />
+    <img src="https://img.shields.io/badge/kubernetes-252525.svg?&style=for-the-badge&logo=kubernetes&logoColor=0086b3" alt="Kubernetes" />
   </p>
 </details>
 
@@ -109,9 +112,9 @@
   <summary><b>AI & Data Science</b></summary>
   <br>
   <p align="center">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <img src="https://img.shields.io/badge/TensorFlow-252525?style=for-the-badge&logo=tensorflow&logoColor=0086b3" alt="TensorFlow" />
+    <img src="https://img.shields.io/badge/PyTorch-252525?style=for-the-badge&logo=pytorch&logoColor=0086b3" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Pandas-252525?style=for-the-badge&logo=pandas&logoColor=0086b3" alt="Pandas" />
   </p>
 </details>
 
@@ -121,15 +124,15 @@
 </p>
 
 <!-- GitHub Stats section with custom theme -->
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center" style="color: #0086b3;">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saidibraahim&show_icons=true&theme=tokyonight&hide_border=true" alt="Said's GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saidibraahim&theme=tokyonight&hide_border=true" alt="Said's GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=saidibraahim&show_icons=true&theme=dark&title_color=0086b3&text_color=f1f1f1&bg_color=252525&hide_border=true&icon_color=0086b3" alt="Said's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saidibraahim&theme=dark&background=252525&border=0086b3&ring=0086b3&fire=0086b3&currStreakNum=f1f1f1&sideNums=f1f1f1&currStreakLabel=0086b3&sideLabels=0086b3&dates=f1f1f1" alt="Said's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidibraahim&layout=compact&theme=tokyonight&hide_border=true" alt="Said's Top Languages" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidibraahim&layout=compact&theme=dark&title_color=0086b3&text_color=f1f1f1&bg_color=252525&hide_border=true" alt="Said's Top Languages" />
 </div>
 
 <!-- Divider -->
@@ -138,19 +141,19 @@
 </p>
 
 <!-- Current Projects section -->
-<h2 align="center">🔭 Featured Projects</h2>
+<h2 align="center" style="color: #0086b3;">🔭 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/saidibraahim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saidibraahim&repo=your-best-repo-here&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SaidIbrahim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saidibraahim&repo=somproperties&theme=dark&title_color=0086b3&text_color=f1f1f1&bg_color=252525&hide_border=true&icon_color=0086b3" />
   </a>
-  <a href="https://github.com/saidibraahim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saidibraahim&repo=another-great-project&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SaidIbrahim">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saidibraahim&repo=react-dashboard&theme=dark&title_color=0086b3&text_color=f1f1f1&bg_color=252525&hide_border=true&icon_color=0086b3" />
   </a>
 </div>
 
 <!-- Footer with animation -->
 <br>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0086b3&height=100&section=footer" width="100%"/>
 </div>
