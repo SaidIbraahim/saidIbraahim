@@ -1,6 +1,6 @@
 <!-- Header with animated typing effect -->
 <div align="center">
-  <a href="https://portfolio.saidibrahim.tech/">
+  <a href="https://portfolio.saidibrahim.tech/" target="_blank" rel="noopener noreferrer">
     <img src="https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif" width="100%" alt="banner"/>
   </a>
 </div>
@@ -11,10 +11,10 @@
 <!-- Profile views counter and social badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saidibraahim&label=Profile%20views&color=0086b3&style=for-the-badge" alt="profile views" />
-  <a href="https://www.linkedin.com/in/sa-ibrahim/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0086b3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/saeedibrahim.tech" target="_blank"><img src="https://img.shields.io/badge/Instagram-0086b3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/sa-ibrahim/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0086b3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/saidibrahim.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-0086b3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:saidibrahim61@outlook.com"><img src="https://img.shields.io/badge/Email-0086b3?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/></a>
-  <a href="https://portfolio.saidibrahim.tech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-0086b3?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://portfolio.saidibrahim.tech/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-0086b3?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
