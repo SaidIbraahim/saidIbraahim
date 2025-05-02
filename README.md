@@ -140,18 +140,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" width="100%">
 </p>
 
-<!-- Current Projects section -->
-<h2 align="center" style="color: #0086b3;">🔭 Featured Projects</h2>
-
-<div align="center">
-  <a href="https://github.com/SaidIbrahim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saidibraahim&repo=somproperties&theme=dark&title_color=0086b3&text_color=f1f1f1&bg_color=252525&hide_border=true&icon_color=0086b3" />
-  </a>
-  <a href="https://github.com/SaidIbrahim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saidibraahim&repo=react-dashboard&theme=dark&title_color=0086b3&text_color=f1f1f1&bg_color=252525&hide_border=true&icon_color=0086b3" />
-  </a>
-</div>
-
 <!-- Footer with animation -->
 <br>
 <div align="center">
