@@ -27,16 +27,14 @@
 <!-- About me section with better organization -->
 <h2 style="color: #0086b3;">💫 About Me</h2>
 
+🔹 **Said Ibrahim is a Somali technologist and community-driven innovator.**  
+Currently serving as **Innovation Lead at SYCMU**, he works on applying **software and AI solutions** to real-world challenges. Said is deeply passionate about **ethical AI, youth empowerment, and inclusive innovation**, and mentors aspiring developers to shape East Africa’s digital future.  
+
 - 🔭 I'm currently working on **technology solutions for Somali society, aiming to solve real-world problems**
-
 - 🌱 I'm currently learning **Python for AI and Data Science**
-
 - 💬 Ask me about **JavaScript, React and NodeJS (ExpressJS)**
-
 - 📫 How to reach me **saidibrahim61@outlook.com**
-
 - 🚀 Passionate about **leveraging technology for social impact**
-
 - ⚡ Fun fact **I'm not just a developer and tech enthusiast but also a creative content creator! I share quick, engaging videos on Instagram and TikTok about tech, CS career paths, and productivity tips.**
 
 <!-- Animated divider -->
