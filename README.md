@@ -6,7 +6,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Said Ibrahim</h1>
-<h3 align="center">A passionate Software Developer & UX Designer from Somalia</h3>
+<h3 align="center">A passionate Software & AI Solutions Developer from Somalia</h3>
 
 <!-- Profile views counter and social badges -->
 <p align="center">
@@ -28,7 +28,7 @@
 <h2 style="color: #0086b3;">💫 About Me</h2>
 
 🔹 **Said Ibrahim is a Somali technologist and community-driven innovator.**  
-Currently serving as **Innovation Lead at SYCMU**, he works on applying **software and AI solutions** to real-world challenges. Said is deeply passionate about **ethical AI, youth empowerment, and inclusive innovation**, and mentors aspiring developers to shape East Africa’s digital future.  
+He works on applying **software and AI solutions** to real-world challenges. Said is deeply passionate about **ethical AI, youth empowerment, and inclusive innovation**, and mentors aspiring developers to shape East Africa’s digital future.  
 
 - 🔭 I'm currently working on **technology solutions for Somali society, aiming to solve real-world problems**
 - 🌱 I'm currently learning **Python for AI and Data Science**
